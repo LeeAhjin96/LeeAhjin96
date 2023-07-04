@@ -16,4 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/FDE000?style=plastic&logo=appveyor&logoColor=로고색상"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/#006600?style=plastic&logo=4chan&logoColor=000000"/></a>
+
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeAhjin96&show_icons=true&theme=radical)
+</div>
+
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeAhjin96&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/LeeAhjin96/github-readme-stats)
+</div>
