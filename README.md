@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<!-- ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&section=header&text=Hi%20Hello&fontSize=100) -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Ahjin's%20GitHub%20Profile&descAlignY=51&descAlign=62).
 
 <!--
 **LeeAhjin96/LeeAhjin96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/#006600?style=plastic&logo=4chan&logoColor=000000"/></a>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeAhjin96&show_icons=true&theme=radical)
-</div>
-
 
